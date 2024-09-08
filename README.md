@@ -77,15 +77,24 @@ O frontend estará disponível em `http://localhost:3000`.
 
 ## Estrutura do Projeto
 
+
 .
 ├── backend
+
 │   ├── controllers
+
 │   ├── middleware
+
 │   ├── models
+
 │   ├── routes
+
 │   ├── db.js
+
 │   ├── server.js
+
 │   └── .env
+
 └── frontend
     ├── public
     ├── src
@@ -96,8 +105,9 @@ O frontend estará disponível em `http://localhost:3000`.
 
 
 ## Imagens
-![image](https://github.com/user-attachments/assets/fc4877c2-39c8-4c6f-b661-e7913fce7f18)
-![image](https://github.com/user-attachments/assets/2d006104-ca96-49d0-9875-e3ca4ced4b39)
+
+![Screenshot (525)](https://github.com/user-attachments/assets/ea532736-de46-4346-9f84-687bd81bcdfa)
+![Screenshot (524)](https://github.com/user-attachments/assets/be18ded6-9d7e-444b-8b40-307e27664237)
 
 
 Insomnia Requisições
