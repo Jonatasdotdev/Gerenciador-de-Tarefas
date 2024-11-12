@@ -112,9 +112,6 @@ O frontend estará disponível em `http://localhost:3000`.
 
 
 
-## Insomnia Requisições
-![image](https://github.com/user-attachments/assets/5842d1fc-a61f-46b8-8caf-3a1ec0016b75)
-![image](https://github.com/user-attachments/assets/6c866b9d-c346-4df4-8841-a06d9185878c)
 
 
 
