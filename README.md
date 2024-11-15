@@ -75,35 +75,6 @@ Este é um gerenciador de tarefas com funcionalidades de cadastro de usuário, l
 
 O frontend estará disponível em `http://localhost:3000`.
 
-## Estrutura do Projeto
-
-
-.
-├── backend
-
-│   ├── controllers
-
-│   ├── middleware
-
-│   ├── models
-
-│   ├── routes
-
-│   ├── db.js
-
-│   ├── server.js
-
-│   └── .env
-
-└── frontend
-    ├── public
-    ├── src
-    │   ├── components
-    │   ├── pages
-    │   ├── services
-    │   └── App.js
-
-
 ## Imagens
 
 ![Screenshot (525)](https://github.com/user-attachments/assets/ea532736-de46-4346-9f84-687bd81bcdfa)
